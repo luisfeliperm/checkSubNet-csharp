@@ -1,0 +1,7 @@
+C:\Users\luisf\Desktop\Desenvolvimento\CheckSubNet\CheckSubNet\bin\Debug\CheckSubNet.exe.config
+C:\Users\luisf\Desktop\Desenvolvimento\CheckSubNet\CheckSubNet\bin\Debug\CheckSubNet.exe
+C:\Users\luisf\Desktop\Desenvolvimento\CheckSubNet\CheckSubNet\bin\Debug\CheckSubNet.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\CheckSubNet\CheckSubNet\obj\Debug\CheckSubNet.csprojAssemblyReference.cache
+C:\Users\luisf\Desktop\Desenvolvimento\CheckSubNet\CheckSubNet\obj\Debug\CheckSubNet.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\Desenvolvimento\CheckSubNet\CheckSubNet\obj\Debug\CheckSubNet.exe
+C:\Users\luisf\Desktop\Desenvolvimento\CheckSubNet\CheckSubNet\obj\Debug\CheckSubNet.pdb
