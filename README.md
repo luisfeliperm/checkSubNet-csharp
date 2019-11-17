@@ -17,7 +17,7 @@
     	Console.WriteLine("Existing !! TRUE ");
     }
     
-## Using CIDR
+## Using PREFIX LENGHT
 
     var host = IPAddress.Parse("192.168.0.1");
     var network = IPAddress.Parse("192.168.0.0");
@@ -48,8 +48,8 @@ Logic I used to develop the script
 
 if and results match, address belongs to network
 
-## Convert CIDR to NETMASK (LOGIC)
-***Convert cidr /24 to netmask***  
+## Convert PREFIX LENGHT to NETMASK (LOGIC)
+***Convert cidr /24 to address netmask***  
 Just *shift* the bits left X times  
 
  **x** = 24  
